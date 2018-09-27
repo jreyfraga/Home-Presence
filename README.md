@@ -1,7 +1,7 @@
 # Home-Presence
 Simple Python script that list LAN connected users. Useful for home automation developers (OpenHab, Raspberry, Home Assitant..)
 
-You can use this script to check if someone is at home if his phone is connected to the Wifi for example.
+You can use this script to check if someone is at home and check if his phone is connected to the Wifi for example.
 
 ## Requeriments
 Of course you need Python and you need to install arp-scan in your system if is not already installed.
