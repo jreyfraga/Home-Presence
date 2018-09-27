@@ -1,6 +1,5 @@
 # Simple Python script that list LAN connected users
 
-
 import os
 import time
 import sys
